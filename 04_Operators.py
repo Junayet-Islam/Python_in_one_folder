@@ -28,6 +28,7 @@ print (c % d)# this is called reminder.......after deviding the numbers...the re
 
 print (c ** d) # this is called the basic power function...like 5**2 is the 5*5 or 5**3 is the 5*5*5
 
-print (c // d) # this gives the division also but don't give the numbers of the decimal....like if the division comes 3.33, it will give 3, the rest will be poped out 
+print (c // d) # this gives the division also but don't give the numbers of the decimal....like if the division comes 3.33, it will give 3, the rest will be poped out...so it ususally give the integer number
+
 
 
